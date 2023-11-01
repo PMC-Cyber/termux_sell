@@ -1,3 +1,469 @@
-z="
-";lCz='ub  ';IPz='Buat';mOz=' AUT';Yz='rint';pLz='E[1;';gLz='m:::';IKz='ANNY';qHz='┏┳┓ ';vKz='╝ ╻ ';aKz='1 ||';HPz='min ';iCz='${R}';WEz='rese';aHz='0m\e';vNz='STEM';gz='tf '\''';wJz='baha';nGz='┓ ┃┃';bJz='t';sKz=' "╩ ';pHz='┳ ┳ ';JOz='RT U';iEz='1; r';COz='LAKA';VPz='inte';AOz='LESA';SEz='rrup';bz='35m'\''';yCz='al  ';IOz='ESTA';yLz='║ ╠╣';FDz='_feb';gEz='ed."';ZDz=' edu';MKz='1m!!';VLz=' MAS';QEz='ram ';xMz='git ';wDz='this';jMz='  ║╣';ZCz='}:  ';vLz='╦═╗ ';aFz='. Ha';CGz='╚═╗ ';GNz='/ter';Oz=' '\''\0';FGz='║ ║ ';bOz='= 1 ';pIz='elec';TEz='ted.';ZKz=' == ';nMz='╩  ╩';hKz='|| $';oLz='R  \';WCz='Auth';kJz='93m ';oGz='┃ ┣┳';cBz='out ';kCz='Gith';nBz='/dev';EFz='attr';cz=')"';GCz='ne${';gBz=' "ht';tBz=' && ';iGz='┛   ';dPz='3137';gCz='RE T';bIz='e\e[';MFz='msg_';QNz='NCOB';VDz='Tool';JBz='e[0m';RPz='tart';HHz='m\e[';SKz='>>\e';iz='[36m';DJz=' 1 |';HFz=' op ';CNz='/Unl';KBz='\n'\'')';jHz=')  \';iLz='::: ';ADz='://i';fLz='"\E[';XLz='m!! ';LNz=' ""';bKz=' $ba';PMz='ENGU';qFz='╔═╗ ';mKz='╔ ╔═';lDz='will';DHz='\e[1';qCz='ithu';pJz='91m[';TCz='m\n"';hEz=' 2>&';kEz='_col';RGz='"┏┳┓';XJz='upda';ACz='}" |';pOz='BUAT';UGz=' ┏┳┓';NKz=';91m';EJz='| $o';xDz=' too';mGz='  ┣┻';SBz='${GR';qGz='" ┻ ';pEz='_sig';oz='RBG=';ZIz='3m U';NPz='[ $c';JFz='colo';XGz='┳   ';LFz='rn';DCz='e "$';TJz='cost';RHz='────';tJz='fi';dDz='pose';sLz='7m╦╔';OHz='   \';PHz=';37m';jz=''\'')"';RKz='ES\e';MDz='_}"';QFz='ner1';fDz='ly $';wIz=' opt';LBz='chec';Jz='3[31';kGz='┣┫  ';tDz='y mi';cGz='" ┃ ';BIz='  ┃ ';rFz='╔╗╔ ';AGz='║║║ ';AMz='  ║ ';yFz='╠═╣ ';KGz='╚═╝ ';BGz='╠╩╗ ';EKz='NJUT';OPz='sb =';Xz='"$(p';wHz='n"';Zz='f '\''\';NEz='R}]$';RFz='; }';OCz='r';BOz='I SI';ALz='Inst';uGz=' ┻ ┗';rKz='╦ "';pBz='l';RIz='m02\';eNz=' Mai';cPz='/628';WMz='[ $u';pFz='╦ ╦ ';qJz='1;97';Iz=''\''\03';THz='m   ';AJz='[ $o';lGz='┃   ';eDz=' "on';pGz='┛ "';UFz='K} T';uJz='inst';yKz=' $O"';sBz=' 0 ]';FBz='BLKB';AFz=' sgr';gPz='$csb';rHz='  ┏┳';KMz='3mAP';cFz=' goo';ZNz='t() ';LHz=';31m';XCz='or  ';AIz='   ┃';CPz=' KAS';nz='30m'\''';xNz=' $WT';rIz=' Opt';QMz='PDAT';aDz='cati';FMz='╝ ╚ ';xHz='┃┃┃ ';ZGz='  ┏┓';IIz='1;31';kBz='thub';fz='prin';gIz='3m E';wCz='-You';MNz='3mUP';dKz='1 ]]';yBz='${WT';hBz='tps:';iFz='r; e';vHz='[0m\';CBz='6m'\'')';bMz='7m╦ ';hNz=''\'' ab';SMz='RIPT';ZLz='te()';yHz='┃ ┃ ';QDz='rnin';CKz='BELU';NFz='{ cl';LOz=' TER';pKz='║   ';NBz='atus';SDz='TBG}';KDz='vers';kLz='7m  ';uDz='suse';xEz='lor(';uHz='  \e';xJz='n() ';RBz=' "\n';vFz='╗ ╦ ';CJz='n ==';tOz=' 1K ';RCz='tf "';oCz='ttps';DKz='M LA';fBz='-fIs';PLz='STAL';JJz='mc';CEz='_on_';nEz=' exi';nHz='er()';fOz=' $pm';FJz=' 01 ';iDz='YAN}';WFz=' you';PEz='Prog';LPz=''\'' cs';eOz='2 ||';WIz='anne';XMz='e ==';eEz='Term';LKz='RO !';SPz=' -a ';VOz='rc $';kFz='0; }';SJz='en';UCz=' "${';YHz=' By ';eFz='y.${';JLz='ruby';SCz='\e[0';sNz='PERA';XNz='tall';JCz='abou';BDz='nsta';UNz='ALI ';DGz='  ╚╦';eHz=' PMC';FEz='IGIN';eKz='$bah';jBz='i.gi';nLz='CYBE';tHz='┓   ';PIz='Sell';nJz='opti';NGz='╝ ╚═';HOz=' / R';uKz='╩ ╝╚';wNz='.. \';ILz='all ';pDz='onsi';MLz='lolc';bEz='IGTE';YEz='lor;';kDz='hor ';tIz='m: \';bCz='./B7';vDz=' of ';YKz='ahan';GHz='ode ';XBz='tern';RDz='g:${';UBz='WT}+';kOz=' HUB';rLz='::"';TIz='ostu';eBz='url ';tGz=' ┻┈┻';TLz=' MEN';UHz='1;37';PCz='bann';Qz='2m'\'')';EBz='[47m';OEz='{R} ';oMz='╝ \e';tLz='═ ╔═';jOz='BISA';TGz=' ┳━┓';PFz=' ban';NOz='NYA ';DLz='acka';jGz='┗━┓ ';XEz='t_co';mJz='lid ';UPz='oid.';OBz='() {';GKz='TALL';MGz='  ╚═';ENz='ed-C';EDz='izal';OLz='3mIN';HNz='mux_';yz='3[45';kKz='╦   ';uFz='╦ ╔═';mMz='  ═╩';REz='Inte';fEz='inat';HEz='{';NIz='eam ';rGz=' ┗━┛';FCz='ffli';FPz='onta';SHz='──┐ ';xKz=' "';VCz='GR} ';UKz=' \en';cDz=' pur';KIz='m01\';LDz='ion_';XKz='[ $b';qz='GRBG';bDz='onal';LMz='AKAH';iBz='//ap';Gz='(pri';GEz='T() ';HMz='╩╚═ ';CLz='ng p';JKz='A DU';aPz='://w';OOz='rm $';OFz='ear;';xIz='ion';WJz='3 ]]';sOz='CUMA';UDz='his ';JMz='╩  \';cOz='pmc ';XHz='ated';kIz='$'\''  ';QCz='er2';hMz='╝  ║';KHz='h  \';VKz=''\'' ba';BPz='RIMA';mDz=' not';nFz='er1(';QLz='LING';DEz='sign';sMz='rm -';QIz='0m\n';sGz=' ┻┗━';CIz='┗┳┛ ';AHz='┛ ┛┗';FHz='In C';Wz='NTA=';CFz='# re';LLz='gem ';FIz='   ┻';RMz='E SC';kz='WT="';YBz='et S';gOz='c ==';dCz='{O}P';YCz=' ${R';cIz='m99\';YGz='┏━┓ ';YOz='c';LGz='   ╩';MOz='MUX ';HIz='menu';uBz=' -e ';oHz='1;32';tKz='╩═╝ ';bGz='┓ "';cMz='╗ ╔╦';BMz='╠╦╝ ';fPz='58';AEz='}!${';GMz='  ╩ ';JNz='.git';dHz=';33m';APz='E TE';lz='7m'\'')';tNz='SIKA';POz='PREF';IFz='    ';yDz='lkit';cCz='}[ $';mHz='─┘"';FNz='rack';GOz='EXIT';lIz='[\e[';UOz='cp b';QBz=' -ne';CCz='ho -';IHz='1;33';iPz='b ==';qEz='nal_';aNz='ner';dNz='n To';fIz='m00\';rDz='for"';OIz='PMC ';sDz=' "an';eIz='bout';qNz='NG M';UMz=''\'' up';Lz='GR="';DOz='N TU';VNz='bash';RJz='; th';cNz='etur';YFz='ng t';GGz='║  \';TFz='${BL';hz='\033';DMz='╩ ╚═';dOz='$pmc';vGz='━   ';xz='G="$';VGz=' ┳ ┳';VFz='hank';GIz=' ┻  ';NJz='== 2';QJz='2 ]]';QGz=' $GR';TOz='rc';HBz='RESE';RNz='A MA';tMz='rf t';Mz='$(pr';yMz='clon';lLz='MALW';hPz=' $cs';SIz='3m C';aJz='9 ]]';sFz='╦╔═ ';TPz='andr';cEz='RM()';Vz='MAGE';ZBz='tatu';bHz='[1;3';SFz='RBG}';ez='="$(';aGz='┏ ┳━';pMz='cd $';DFz='set ';fCz='ALWA';nNz='t ==';ONz=' AKA';BJz='ptio';qDz='ble ';KLz=' -y';SLz='ESAI';qKz='║ ║║';BEz='exit';BKz='3mSE';Tz='BL="';lJz='Inva';LCz='ner(';hHz=' CYB';XDz='made';HCz='WT}"';gDz='{R}!';bLz='ow m';XFz=' usi';eLz='m"';DNz='imit';SNz='SUK ';kHz='│  \';WHz='mCre';WNz=' ins';hLz='::::';rEz='SIGI';jDz=' Aut';rOz='TUM ';pNz='SEDA';gGz=' ┃ ┃';Rz='O="$';dFz='d da';EGz='╝ ║ ';BHz='┛ ┻┗';aOz='mc =';hIz='xit\';BFz='0   ';KPz='tum ';LJz=' [[ ';OGz='╝  \';EMz='╝ ╝╚';ePz='5603';kNz=' $ab';WDz=' is ';fKz='an =';az='033[';GJz=']]; ';CHz='━ "';nCz='AN}h';IJz='er_p';fGz=' ┃┃┃';CMz='7m╩ ';iIz='read';hOz='SILA';YPz='n.VI';FOz='ISA ';YNz='.sh';hDz='}${C';tFz='  ╦ ';KOz='LANG';dz='CYAN';TKz='96m ';nKz='╗  "';XOz=''\'' pm';PNz='N ME';PBz='echo';kMz='7m╚═';lNz='$abo';KCz='tban';cLz='e on';ODz='${RB';CDz='gram';qOz=' COS';PGz='er2(';rJz='m!\e';DIz='┗┻┛ ';ZEz=' }';BLz='alli';oIz='2m S';EIz='┻ ┻ ';Hz='ntf ';KEz='\n\n';yIz='if [';tCz='limi';AKz=' " "';GPz='k Ad';vCz='Crak';sHz='┓ ┏━';JHz='mBas';VBz='}]${';dMz='╗ ╔═';SGz=' ┏━┓';xOz='GOPI';ANz='e ht';xFz=' ║  ';oOz='DAN ';lEz='or; ';GFz='es';yJz='er';gHz='WARE';gNz='nu\e';QHz='┌───';Ez='"';eGz=' ┣┳┛';QPz='am s';jCz=']"';DBz='WTBG';JGz='╝╚╝ ';VJz='nner';yNz='" SE';EHz=';32m';dGz=' ┣┫ ';iKz=' 02 ';nOz='HOR ';SOz='ash.';mIz='7m~\';jEz='eset';fMz='7m║ ';nDz=' be ';rNz='ENGO';KFz='retu';FFz='ibut';YDz=' for';bBz='time';wz='NTAB';JDz='${__';gJz='m[\e';KKz='LU B';lBz='.com';OKz='3m N';pz='41m'\''';lKz='╦ ╔╗';vz='[44m';Kz='m'\'')"';HGz=' ╩  ';vOz='" BU';Dz='"1.0';fNz='n Me';qMz='HOME';jKz=' "╦ ';dEz=' {';BBz='33[4';JEz='\n%s';MCz=') {';JIz='m  [';ZMz='$upd';lOz='UNGI';tz='43m'\''';KNz='cd t';jPz=' 03 ';wOz='AT N';TNz='KEMB';LEz='" "$';uz='BLBG';vJz='all_';lMz='╝ ╩ ';lFz='slee';xLz='╗ ║ ';NHz='n__}';wKz='╻ ╻ ';iHz='ER \';NDz='WT} ';dIz='3m A';UEz='" 2>';rMz='cd';TDz='}  T';NNz='DATE';MBz='k_st';oKz=' "║ ';uEz='SIGT';hCz='EAM ';hFz='set_';vMz='x_se';ABz='BG="';EEz='al_S';MJz='$opt';HKz=' BAH';jNz='[ $a';YMz='| $u';WOz='tc';wMz='ll';GBz='3[40';jIz=' -p ';Fz='R="$';FKz=' INS';dBz='3s c';iOz='KAN ';WLz='UK !';NMz='A AK';aLz='Foll';ZPz='EW h';NLz='at';sJz='91m]';tEz='T';OMz='AN M';sIz='1;96';ICz='}';sz='OBG=';WBz='} In';MPz='b';ZJz='== 9';eMz='╗  \';IMz=' ═╝ ';YJz='te';wLz='7m╠╩';EPz='. :)';wEz='ERM';fHz=' MAL';uCz='tid-';HLz='apt ';aEz=' 0';oEz='t_on';ULz='COBA';aMz='ate ';VIz='ll B';fFz='\n"';cKz='han ';QOz='IX/e';mNz='ut =';HDz='Vers';mFz='p 2';vEz='ERM ';mz='BLK=';jLz='\e[9';oDz='resp';uLz='╗ ╔╗';Bz='rsio';ROz='tc/b';VHz='m│  ';dJz='p 1';WKz='han';iJz='97m!';xCz='Soci';vBz='"${G';TBz='}[${';oFz='╔╦╗ ';oJz='on \';XPz='ctio';EOz='AN B';rBz=' -eq';RLz=' SEL';IDz='ion ';Az='__ve';ZHz=' \e[';VEz='&1; ';sEz='NT S';ZOz='[ $p';NCz='clea';PDz='G}Wa';aCz='${O}';XIz='r ?\';fJz='1;91';uNz='N SI';Nz='intf';uIz=';93m';bPz='a.me';GDz='rian';sCz='m/Un';gMz='║ ╠═';INz='sell';UIz='m Se';bNz='3m R';vIz='\en'\''';qIz='t An';hJz='e[1;';PJz='== 0';cHz='1m(\';OJz=' || ';yOz=' BRE';UJz='umba';jJz='m]\e';DPz='IH .';mEz='trap';oNz='mc()';cJz='0 ]]';BCz='| ec';Uz='4m'\'')';wFz='╦  \';MIz='3m T';YLz='n';ECz='{R}O';PKz='O\e[';pCz='://g';VMz='date';WPz='nt.a';PPz='csb ';eJz='else';GLz='.."';DDz='/apr';gKz='= 2 ';MEz='{R}[';ELz='ges.';YIz='m03\';jFz='xit ';oBz='/nul';nIz='[1;9';aIz='pdat';eCz='MC M';IBz='TBG=';wGz='┗━┛ ';HJz='then';rCz='b.co';IEz='{ pr';Cz='n__=';dLz='e gi';iMz='╣  ║';uMz='ermu';wBz='R}On';qLz='33m:';mBz='" > ';BNz='//gi';QKz='3m Y';bFz='ve a';xBz='line';yGz='  ┗━';yEz='tput';ZFz='tool';JPz=' Cos';MHz=': ${';MMz=' AND';xGz='┻━┛ ';uOz='HEE\';hGz=' ┏┻┳';mCz='${CY';aBz='s : ';lHz='   └';WGz=' ━┓ ';IGz='╩ ╩ ';KJz='elif';mLz='ARE ';iNz='out';LIz=']\e[';TMz=' INI';Pz='33[3';rz='[42m';FLz='....';gFz='{ re';qBz='[ $?';Sz='3[33';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Ez$z$Rz$Gz$Hz$Iz$Sz$Kz$z$Tz$Mz$Nz$Oz$Pz$Uz$Ez$z$Vz$Wz$Xz$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$z$kz$Mz$Nz$Oz$Pz$lz$Ez$z$mz$Xz$Yz$Zz$az$nz$cz$z$oz$Xz$Yz$Zz$az$pz$cz$z$qz$ez$fz$gz$hz$rz$jz$z$sz$Xz$Yz$Zz$az$tz$cz$z$uz$ez$fz$gz$hz$vz$jz$z$Vz$wz$xz$Gz$Hz$Iz$yz$Kz$z$dz$ABz$Mz$Nz$Oz$BBz$CBz$Ez$z$DBz$ez$fz$gz$hz$EBz$jz$z$FBz$xz$Gz$Hz$Iz$GBz$Kz$z$HBz$IBz$Xz$Yz$Zz$JBz$KBz$Ez$z$LBz$MBz$NBz$OBz$z$PBz$QBz$RBz$SBz$TBz$UBz$SBz$VBz$dz$WBz$XBz$YBz$ZBz$aBz$Ez$z$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$qBz$rBz$sBz$tBz$PBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$z$ICz$z$JCz$KCz$LCz$MCz$z$NCz$OCz$z$PCz$QCz$z$fz$RCz$SCz$TCz$z$PBz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$YCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$z$PBz$UCz$VCz$kCz$lCz$YCz$ZCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$Ez$z$PBz$UCz$VCz$xCz$yCz$YCz$ZCz$mCz$nCz$oCz$ADz$BDz$CDz$lBz$DDz$EDz$FDz$GDz$Ez$z$PBz$UCz$VCz$HDz$IDz$YCz$ZCz$aCz$JDz$KDz$LDz$MDz$z$fz$RCz$SCz$TCz$z$PBz$UCz$NDz$ODz$PDz$QDz$RDz$HBz$SDz$Ez$z$PBz$UCz$dz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$Ez$z$PBz$eDz$fDz$gDz$yBz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$z$PBz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$YCz$AEz$HCz$z$ICz$z$BEz$CEz$DEz$EEz$FEz$GEz$HEz$z$IEz$Nz$RBz$JEz$KEz$LEz$MEz$yBz$AEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$z$BEz$aEz$z$ICz$z$BEz$CEz$DEz$EEz$bEz$cEz$dEz$z$IEz$Nz$RBz$JEz$KEz$LEz$MEz$yBz$AEz$NEz$OEz$PEz$QEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$ICz$z$BEz$aEz$z$ICz$z$mEz$nEz$oEz$pEz$qEz$rEz$sEz$FEz$tEz$z$mEz$nEz$oEz$pEz$qEz$uEz$vEz$uEz$wEz$z$WEz$XEz$xEz$MCz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$z$yEz$HFz$IFz$CFz$DFz$JFz$OCz$z$KFz$LFz$z$ICz$z$MFz$BEz$OBz$z$NFz$OFz$PFz$QFz$RFz$z$PBz$uBz$vBz$SFz$TFz$UFz$VFz$WFz$YDz$XFz$YFz$UDz$ZFz$aFz$bFz$cFz$dFz$eFz$HBz$SDz$fFz$z$gFz$hFz$JFz$iFz$jFz$kFz$z$lFz$mFz$z$NCz$OCz$z$ICz$z$PCz$nFz$MCz$z$fz$RCz$oFz$pFz$qFz$rFz$sFz$qFz$tFz$uFz$vFz$wFz$JBz$fFz$z$fz$RCz$xFz$yFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$JBz$fFz$z$fz$RCz$HGz$IGz$IGz$JGz$IGz$KGz$LGz$MGz$NGz$OGz$JBz$fFz$z$ICz$z$PCz$PGz$MCz$z$NCz$OCz$z$LBz$MBz$NBz$z$fz$RCz$SCz$TCz$z$PBz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$YGz$XGz$XGz$ZGz$ZGz$aGz$bGz$z$PBz$QGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$lGz$mGz$nGz$oGz$pGz$z$PBz$QGz$qGz$rGz$sGz$tGz$rGz$uGz$vGz$wGz$wGz$xGz$xGz$yGz$AHz$BHz$CHz$z$fz$RCz$DHz$EHz$IFz$IFz$IFz$IFz$IFz$IFz$IFz$FHz$GHz$SCz$HHz$IHz$JHz$KHz$JBz$DHz$LHz$HDz$IDz$MHz$Az$Bz$NHz$IFz$SCz$TCz$z$fz$RCz$SCz$TCz$z$fz$RCz$OHz$JBz$DHz$PHz$QHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$SHz$SCz$TCz$z$fz$RCz$SCz$HHz$IHz$THz$SCz$HHz$UHz$VHz$SCz$HHz$IHz$WHz$XHz$YHz$bCz$ZHz$aHz$bHz$cHz$JBz$DHz$dHz$eHz$fHz$gHz$hHz$iHz$JBz$DHz$LHz$jHz$JBz$DHz$PHz$kHz$JBz$fFz$z$fz$RCz$lHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$mHz$z$fz$RCz$SCz$TCz$z$ICz$z$PCz$nHz$dEz$z$NCz$OCz$z$LBz$MBz$NBz$z$fz$RCz$SCz$TCz$z$fz$RCz$SCz$HHz$oHz$THz$pHz$YGz$XGz$YGz$YGz$qHz$YGz$rHz$sHz$tHz$pHz$YGz$pHz$uHz$vHz$wHz$z$fz$RCz$SCz$HHz$oHz$THz$xHz$kGz$lGz$yHz$lGz$xHz$kGz$AIz$BIz$lGz$CIz$yHz$yHz$uHz$vHz$wHz$z$fz$RCz$SCz$HHz$oHz$THz$DIz$wGz$xGz$wGz$wGz$EIz$wGz$FIz$yGz$iGz$GIz$wGz$wGz$uHz$vHz$wHz$z$fz$RCz$DHz$EHz$IFz$IFz$IFz$IFz$IFz$IFz$IFz$FHz$GHz$SCz$HHz$IHz$JHz$KHz$JBz$DHz$LHz$HDz$IDz$MHz$Az$Bz$NHz$IFz$SCz$TCz$z$fz$RCz$SCz$TCz$z$fz$RCz$OHz$JBz$DHz$PHz$QHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$SHz$SCz$TCz$z$fz$RCz$SCz$HHz$IHz$THz$SCz$HHz$UHz$VHz$SCz$HHz$IHz$WHz$XHz$YHz$bCz$ZHz$aHz$bHz$cHz$JBz$DHz$dHz$eHz$fHz$gHz$hHz$iHz$JBz$DHz$LHz$jHz$JBz$DHz$PHz$kHz$JBz$fFz$z$fz$RCz$lHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$RHz$mHz$z$fz$RCz$SCz$TCz$z$ICz$z$HIz$OBz$z$fz$RCz$SCz$TCz$z$fz$RCz$SCz$HHz$IIz$JIz$SCz$HHz$UHz$KIz$JBz$DHz$LHz$LIz$aHz$bHz$MIz$NIz$OIz$PIz$ZHz$QIz$Ez$z$fz$RCz$SCz$HHz$IIz$JIz$SCz$HHz$UHz$RIz$JBz$DHz$LHz$LIz$aHz$bHz$SIz$TIz$UIz$VIz$WIz$XIz$JBz$fFz$z$fz$RCz$SCz$HHz$IIz$JIz$SCz$HHz$UHz$YIz$JBz$DHz$LHz$LIz$aHz$bHz$ZIz$aIz$bIz$QIz$Ez$z$fz$RCz$SCz$HHz$IIz$JIz$SCz$HHz$UHz$cIz$JBz$DHz$LHz$LIz$aHz$bHz$dIz$eIz$SCz$TCz$z$fz$RCz$SCz$HHz$IIz$JIz$SCz$HHz$UHz$fIz$JBz$DHz$LHz$LIz$aHz$bHz$gIz$hIz$JBz$fFz$z$fz$RCz$SCz$TCz$z$iIz$jIz$kIz$DHz$LHz$lIz$aHz$bHz$mIz$JBz$DHz$LHz$LIz$aHz$nIz$oIz$pIz$qIz$rIz$IDz$SCz$HHz$sIz$tIz$JBz$DHz$uIz$vIz$wIz$xIz$z$yIz$AJz$BJz$CJz$DJz$EJz$BJz$CJz$FJz$GJz$HJz$z$PCz$IJz$JJz$z$KJz$LJz$MJz$IDz$NJz$OJz$MJz$IDz$PJz$QJz$RJz$SJz$z$TJz$UJz$VJz$z$KJz$LJz$MJz$IDz$NJz$OJz$MJz$IDz$PJz$WJz$RJz$SJz$z$XJz$YJz$z$KJz$LJz$MJz$IDz$NJz$OJz$MJz$IDz$ZJz$aJz$RJz$SJz$z$JCz$bJz$z$KJz$LJz$MJz$IDz$PJz$OJz$MJz$IDz$PJz$cJz$RJz$SJz$z$lFz$dJz$z$fz$RCz$SCz$TCz$z$fz$RCz$SCz$TCz$z$MFz$BEz$z$eJz$z$fz$RCz$ZHz$fJz$gJz$vHz$hJz$iJz$SCz$HHz$fJz$jJz$vHz$hJz$kJz$lJz$mJz$nJz$oJz$hJz$pJz$SCz$HHz$qJz$rJz$vHz$hJz$sJz$SCz$TCz$z$lFz$dJz$z$PCz$QCz$z$HIz$z$tJz$z$ICz$z$uJz$vJz$wJz$xJz$HEz$z$PCz$yJz$z$PBz$AKz$z$fz$RCz$ZHz$aHz$nIz$BKz$CKz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$KKz$LKz$ZHz$aHz$nIz$MKz$ZHz$QIz$Ez$z$fz$RCz$SCz$TCz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$KIz$JBz$DHz$NKz$LIz$aHz$nIz$OKz$PKz$QIz$Ez$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$RIz$JBz$DHz$NKz$LIz$aHz$nIz$QKz$RKz$vHz$wHz$z$fz$RCz$SCz$TCz$z$iIz$jIz$kIz$DHz$LHz$SKz$vHz$hJz$TKz$UKz$VKz$WKz$z$yIz$XKz$YKz$ZKz$aKz$bKz$cKz$PJz$dKz$RJz$SJz$z$MFz$BEz$z$KJz$LJz$eKz$fKz$gKz$hKz$wJz$CJz$iKz$GJz$HJz$z$NCz$OCz$z$PBz$AKz$z$PBz$jKz$rFz$qFz$oFz$qFz$kKz$kKz$lKz$mKz$nKz$z$PBz$oKz$AGz$CGz$xFz$yFz$pKz$pKz$qKz$FGz$rKz$z$PBz$sKz$JGz$KGz$HGz$IGz$tKz$tKz$uKz$NGz$vKz$wKz$wKz$xKz$z$PBz$AKz$z$PBz$yKz$ALz$BLz$CLz$DLz$ELz$FLz$GLz$z$PBz$AKz$z$HLz$XJz$YJz$z$HLz$uJz$ILz$JLz$KLz$z$LLz$uJz$ILz$MLz$NLz$z$lFz$dJz$z$NCz$OCz$z$PBz$AKz$z$fz$RCz$ZHz$aHz$nIz$OLz$PLz$QLz$RLz$SLz$TLz$ULz$VLz$WLz$SCz$HHz$fJz$XLz$SCz$TCz$z$fz$RCz$SCz$TCz$z$lFz$dJz$z$NCz$OCz$z$PCz$QCz$z$HIz$z$eJz$z$fz$RCz$ZHz$fJz$gJz$vHz$hJz$iJz$SCz$HHz$fJz$jJz$vHz$hJz$kJz$lJz$mJz$nJz$oJz$hJz$pJz$SCz$HHz$qJz$rJz$vHz$hJz$sJz$SCz$TCz$z$lFz$dJz$z$uJz$vJz$wJz$YLz$z$tJz$z$ICz$z$XJz$ZLz$dEz$z$NCz$OCz$z$fz$RCz$SCz$TCz$z$lFz$dJz$z$fz$RCz$DHz$LHz$aLz$bLz$cLz$dLz$kBz$SCz$eLz$z$PBz$z$PBz$uBz$fLz$IHz$gLz$hLz$hLz$iLz$jLz$kLz$OIz$lLz$mLz$nLz$oLz$pLz$qLz$hLz$hLz$hLz$rLz$z$fz$RCz$SCz$TCz$z$fz$RCz$jLz$sLz$tLz$uLz$mKz$vFz$vLz$oFz$qFz$qFz$wFz$JBz$fFz$z$fz$RCz$jLz$wLz$xLz$qKz$yLz$AMz$BMz$AGz$yFz$CGz$GGz$JBz$fFz$z$fz$RCz$jLz$CMz$DMz$EMz$FMz$GMz$HMz$IGz$IGz$IMz$JMz$JBz$fFz$z$fz$RCz$SCz$TCz$z$fz$RCz$ZHz$aHz$nIz$KMz$LMz$MMz$NMz$OMz$PMz$QMz$RMz$SMz$TMz$ZHz$aHz$nIz$MKz$ZHz$QIz$Ez$z$fz$RCz$SCz$TCz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$KIz$JBz$DHz$NKz$LIz$aHz$nIz$OKz$PKz$QIz$Ez$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$RIz$JBz$DHz$NKz$LIz$aHz$nIz$QKz$RKz$vHz$wHz$z$fz$RCz$SCz$TCz$z$iIz$jIz$kIz$DHz$LHz$SKz$vHz$hJz$TKz$UKz$UMz$VMz$z$yIz$WMz$aIz$XMz$DJz$YMz$aIz$XMz$FJz$GJz$HJz$z$PCz$QCz$z$HIz$z$KJz$LJz$ZMz$aMz$NJz$OJz$ZMz$aMz$PJz$QJz$RJz$SJz$z$NCz$OCz$z$fz$RCz$SCz$TCz$z$fz$RCz$jLz$bMz$uFz$cMz$dMz$cMz$dMz$eMz$JBz$fFz$z$fz$RCz$jLz$fMz$gMz$hMz$gMz$iMz$jMz$SCz$TCz$z$fz$RCz$jLz$kMz$lMz$mMz$lMz$nMz$MGz$oMz$vHz$wHz$z$pMz$qMz$z$rMz$z$sMz$tMz$uMz$vMz$wMz$z$xMz$yMz$ANz$hBz$BNz$kBz$lBz$CNz$DNz$ENz$FNz$wCz$GNz$HNz$INz$JNz$z$KNz$uMz$vMz$wMz$z$lFz$dJz$z$NCz$OCz$z$PBz$LNz$z$fz$RCz$ZHz$aHz$nIz$MNz$NNz$RLz$SLz$ONz$PNz$QNz$RNz$SNz$TNz$UNz$SCz$HHz$fJz$XLz$SCz$TCz$z$fz$RCz$SCz$TCz$z$lFz$mFz$z$VNz$WNz$XNz$YNz$z$NCz$OCz$z$eJz$z$fz$RCz$ZHz$fJz$gJz$vHz$hJz$iJz$SCz$HHz$fJz$jJz$vHz$hJz$kJz$lJz$mJz$nJz$oJz$hJz$pJz$SCz$HHz$qJz$rJz$vHz$hJz$sJz$SCz$TCz$z$lFz$dJz$z$XJz$YJz$z$tJz$z$ICz$z$JCz$ZNz$HEz$z$JCz$KCz$aNz$z$fz$RCz$SCz$TCz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$KIz$JBz$DHz$NKz$LIz$aHz$nIz$bNz$cNz$dNz$eNz$fNz$gNz$vHz$wHz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$RIz$JBz$DHz$NKz$LIz$aHz$nIz$gIz$hIz$JBz$fFz$z$fz$RCz$SCz$TCz$z$iIz$jIz$kIz$DHz$LHz$SKz$vHz$hJz$TKz$UKz$hNz$iNz$z$yIz$jNz$eIz$ZKz$aKz$kNz$cBz$PJz$dKz$RJz$SJz$z$PCz$QCz$z$HIz$z$KJz$LJz$lNz$mNz$gKz$hKz$JCz$nNz$iKz$GJz$HJz$z$fz$RCz$SCz$TCz$z$fz$RCz$SCz$TCz$z$NCz$OCz$z$MFz$BEz$z$eJz$z$fz$RCz$ZHz$fJz$gJz$vHz$hJz$iJz$SCz$HHz$fJz$jJz$vHz$hJz$kJz$lJz$mJz$nJz$oJz$hJz$pJz$SCz$HHz$qJz$rJz$vHz$hJz$sJz$SCz$TCz$z$lFz$dJz$z$JCz$bJz$z$tJz$z$ICz$z$PCz$IJz$oNz$dEz$z$PCz$QCz$z$lFz$dJz$z$PBz$AKz$z$fz$RCz$ZHz$fJz$gJz$vHz$hJz$iJz$SCz$HHz$fJz$jJz$vHz$hJz$kJz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$FLz$wNz$hJz$pJz$SCz$HHz$qJz$rJz$vHz$hJz$sJz$SCz$TCz$z$PBz$xNz$yNz$AOz$BOz$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$MOz$NOz$Ez$z$OOz$POz$QOz$ROz$SOz$VNz$TOz$z$UOz$SOz$VNz$VOz$POz$QOz$WOz$z$lFz$dJz$z$fz$RCz$SCz$TCz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$KIz$JBz$DHz$NKz$LIz$aHz$nIz$bNz$cNz$dNz$eNz$fNz$gNz$vHz$wHz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$RIz$JBz$DHz$NKz$LIz$aHz$nIz$gIz$hIz$JBz$fFz$z$fz$RCz$SCz$TCz$z$iIz$jIz$kIz$DHz$LHz$SKz$vHz$hJz$TKz$UKz$XOz$YOz$z$yIz$ZOz$aOz$bOz$hKz$cOz$PJz$dKz$RJz$SJz$z$PCz$QCz$z$HIz$z$KJz$LJz$dOz$ZKz$eOz$fOz$gOz$iKz$GJz$HJz$z$fz$RCz$SCz$TCz$z$fz$RCz$SCz$TCz$z$NCz$OCz$z$MFz$BEz$z$eJz$z$fz$RCz$ZHz$fJz$gJz$vHz$hJz$iJz$SCz$HHz$fJz$jJz$vHz$hJz$kJz$lJz$mJz$nJz$oJz$hJz$pJz$SCz$HHz$qJz$rJz$vHz$hJz$sJz$SCz$TCz$z$lFz$dJz$z$PCz$IJz$JJz$z$tJz$z$ICz$z$TJz$UJz$VJz$OBz$z$PCz$QCz$z$PBz$AKz$z$fz$RCz$ZHz$fJz$gJz$vHz$hJz$iJz$SCz$HHz$fJz$jJz$vHz$hJz$kJz$hOz$iOz$jOz$kOz$lOz$mOz$nOz$oOz$pOz$qOz$rOz$sOz$tOz$uOz$hJz$pJz$SCz$HHz$qJz$rJz$vHz$hJz$sJz$SCz$TCz$z$PBz$xNz$vOz$wOz$xOz$yOz$APz$BPz$CPz$DPz$EPz$Ez$z$fz$RCz$SCz$TCz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$KIz$JBz$DHz$NKz$LIz$aHz$nIz$SIz$FPz$GPz$HPz$IPz$JPz$KPz$SCz$TCz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$KIz$JBz$DHz$NKz$LIz$aHz$nIz$bNz$cNz$dNz$eNz$fNz$gNz$vHz$wHz$z$fz$RCz$uHz$vHz$hJz$pJz$SCz$HHz$qJz$YIz$JBz$DHz$NKz$LIz$aHz$nIz$gIz$hIz$JBz$fFz$z$fz$RCz$SCz$TCz$z$iIz$jIz$kIz$DHz$LHz$SKz$vHz$hJz$TKz$UKz$LPz$MPz$z$yIz$NPz$OPz$bOz$hKz$PPz$PJz$dKz$RJz$SJz$z$QPz$RPz$SPz$TPz$UPz$VPz$WPz$XPz$YPz$ZPz$oCz$aPz$bPz$cPz$dPz$ePz$fPz$z$KJz$LJz$gPz$ZKz$eOz$hPz$iPz$iKz$GJz$HJz$z$PCz$QCz$z$HIz$z$KJz$LJz$gPz$ZKz$eOz$hPz$iPz$jPz$GJz$HJz$z$fz$RCz$SCz$TCz$z$fz$RCz$SCz$TCz$z$NCz$OCz$z$MFz$BEz$z$eJz$z$fz$RCz$ZHz$fJz$gJz$vHz$hJz$iJz$SCz$HHz$fJz$jJz$vHz$hJz$kJz$lJz$mJz$nJz$oJz$hJz$pJz$SCz$HHz$qJz$rJz$vHz$hJz$sJz$SCz$TCz$z$lFz$dJz$z$TJz$UJz$VJz$z$tJz$z$ICz$z$uJz$vJz$wJz$YLz"
+
+#!/bin/bash
+# recode ngotak tolol 
+#jangan lupa bre startednya ok >.-
+
+__version__="1.0"
+
+
+## ANSI colors (FG & BG)
+R="$(printf '\033[31m')"  
+GR="$(printf '\033[32m')"  
+O="$(printf '\033[33m')"  
+BL="$(printf '\033[34m')"
+MAGENTA="$(printf '\033[35m')"  
+CYAN="$(printf '\033[36m')"  
+WT="$(printf '\033[37m')" 
+BLK="$(printf '\033[30m')"
+RBG="$(printf '\033[41m')"  
+GRBG="$(printf '\033[42m')"  
+OBG="$(printf '\033[43m')"  
+BLBG="$(printf '\033[44m')"
+MAGENTABG="$(printf '\033[45m')"  
+CYANBG="$(printf '\033[46m')"  
+WTBG="$(printf '\033[47m')" 
+BLKBG="$(printf '\033[40m')"
+RESETBG="$(printf '\e[0m\n')"
+
+#------------------------ Check Internet Status--------------------#
+check_status() {
+    echo -ne "\n${GR}[${WT}+${GR}]${CYAN} Internet Status : "
+    timeout 3s curl -fIs "https://api.github.com" > /dev/null
+    [ $? -eq 0 ] && echo -e "${GR}Online${WT}" || echo -e "${R}Offline${WT}"
+}
+
+#-----------------------about banner-------------------------------#
+aboutbanner() {
+   clear
+  banner2
+  printf "\e[0m\n"
+		echo "${GR} Author   ${R}:  ${O}./B7 ${R}[ ${O}PMC MALWARE TEAM ${R}]"
+		echo "${GR} Github   ${R}:  ${CYAN}https://github.com/Unlimitid-Crak-You"
+		echo "${GR} Social   ${R}:  ${CYAN}https://instagram.com/aprizal_febrian"
+		echo "${GR} Version  ${R}:  ${O}${__version__}"
+	
+printf "\e[0m\n"
+		echo "${WT} ${RBG}Warning:${RESETBG}"
+		echo "${CYAN}  This Tool is made for educational purpose"
+		  echo "only ${R}!${WT}${CYAN} Author will not be responsible for"
+		  echo "any misuse of this toolkit ${R}!${WT}"
+}
+
+#------------------------Script termination------------------------$
+exit_on_signal_SIGINT() {
+    { printf "\n\n%s\n\n" "${R}[${WT}!${R}]${R} Program Interrupted." 2>&1; reset_color; }
+    exit 0
+}
+
+exit_on_signal_SIGTERM() {
+    { printf "\n\n%s\n\n" "${R}[${WT}!${R}]${R} Program Terminated." 2>&1; reset_color; }
+    exit 0
+}
+
+trap exit_on_signal_SIGINT SIGINT
+trap exit_on_signal_SIGTERM SIGTERM
+
+#-------------------------- Reset terminal colors------------------------#
+reset_color() {
+    tput sgr0   # reset attributes
+    tput op     # reset color
+    return
+}
+
+
+#-------------------------------- Exit message-------------------------#
+msg_exit() {
+    { clear; banner1; }
+    echo -e "${GRBG}${BLK} Thank you for using this tool. Have a good day.${RESETBG}\n"
+    { reset_color; exit 0; }
+    sleep 2
+    clear
+}
+
+#---------------------------- Banner 1 --------------------------------#
+banner1() {
+printf "╔╦╗ ╦ ╦ ╔═╗ ╔╗╔ ╦╔═ ╔═╗   ╦ ╦ ╔═╗ ╦ ╦  \e[0m\n"
+printf " ║  ╠═╣ ╠═╣ ║║║ ╠╩╗ ╚═╗   ╚╦╝ ║ ║ ║ ║  \e[0m\n"
+printf " ╩  ╩ ╩ ╩ ╩ ╝╚╝ ╩ ╩ ╚═╝    ╩  ╚═╝ ╚═╝  \e[0m\n"
+
+}
+
+#---------------------------- Banner 2 --------------------------------#
+banner2() {
+  clear
+  check_status
+  printf "\e[0m\n"
+echo $GR"┏┳┓ ┏━┓ ┳━┓ ┏┳┓ ┳ ┳ ━┓ ┳   ┏━┓ ┏━┓ ┳   ┳     ┏┓  ┏┓┏ ┳━┓ "
+echo $GR" ┃  ┣┫  ┣┳┛ ┃┃┃ ┃ ┃ ┏┻┳┛   ┗━┓ ┣┫  ┃   ┃     ┣┻┓ ┃┃┃ ┣┳┛ "
+echo $GR" ┻  ┗━┛ ┻┗━ ┻┈┻ ┗━┛ ┻ ┗━   ┗━┛ ┗━┛ ┻━┛ ┻━┛   ┗━┛ ┛┗┛ ┻┗━ "
+printf "\e[1;32m                            In Code \e[0m\e[1;33mBash  \e[0m\e[1;31mVersion : ${__version__}    \e[0m\n"
+printf "\e[0m\n"
+printf "   \e[0m\e[1;37m┌─────────────────────────────────────────┐ \e[0m\n"
+printf "\e[0m\e[1;33m   \e[0m\e[1;37m│  \e[0m\e[1;33mCreated By ./B7 \e[0m\e[1;31m(\e[0m\e[1;33m PMC MALWARE CYBER \e[0m\e[1;31m)  \e[0m\e[1;37m│  \e[0m\n"
+printf "   └─────────────────────────────────────────┘"
+printf "\e[0m\n"
+}
+
+#---------------------------- Banner --------------------------------#
+banner() {
+clear
+check_status
+printf "\e[0m\n"
+printf "\e[0m\e[1;32m   ┳ ┳ ┏━┓ ┳   ┏━┓ ┏━┓ ┏┳┓ ┏━┓   ┏┳┓ ┏━┓   ┳ ┳ ┏━┓ ┳ ┳   \e[0m\n"
+printf "\e[0m\e[1;32m   ┃┃┃ ┣┫  ┃   ┃ ┃ ┃   ┃┃┃ ┣┫     ┃  ┃ ┃   ┗┳┛ ┃ ┃ ┃ ┃   \e[0m\n"
+printf "\e[0m\e[1;32m   ┗┻┛ ┗━┛ ┻━┛ ┗━┛ ┗━┛ ┻ ┻ ┗━┛    ┻  ┗━┛    ┻  ┗━┛ ┗━┛   \e[0m\n"
+printf "\e[1;32m                            In Code \e[0m\e[1;33mBash  \e[0m\e[1;31mVersion : ${__version__}    \e[0m\n"
+printf "\e[0m\n"
+printf "   \e[0m\e[1;37m┌─────────────────────────────────────────┐ \e[0m\n"
+printf "\e[0m\e[1;33m   \e[0m\e[1;37m│  \e[0m\e[1;33mCreated By ./B7 \e[0m\e[1;31m(\e[0m\e[1;33m PMC MALWARE CYBER \e[0m\e[1;31m)  \e[0m\e[1;37m│  \e[0m\n"
+printf "   └─────────────────────────────────────────┘"
+printf "\e[0m\n"
+}
+
+#---------------------------- Menu --------------------------------#
+menu() {
+printf "\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m01\e[0m\e[1;31m]\e[0m\e[1;33m Menu Sell Banner Termux \e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m02\e[0m\e[1;31m]\e[0m\e[1;33m Costum Sell Banner ?\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m03\e[0m\e[1;31m]\e[0m\e[1;33m Update\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m99\e[0m\e[1;31m]\e[0m\e[1;33m About\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m00\e[0m\e[1;31m]\e[0m\e[1;33m Exit\e[0m\n"
+printf "\e[0m\n"
+read -p $'  \e[1;31m[\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;92m Select An Option \e[0m\e[1;96m: \e[0m\e[1;93m\en' option
+
+if [[ $option == 1 || $option == 01 ]]; then
+menubanner1
+elif [[ $option == 2 || $option == 02 ]]; then
+costumbanner
+elif [[ $option == 2 || $option == 03 ]]; then
+update
+elif [[ $option == 2 || $option == 99 ]]; then
+about
+elif [[ $option == 0 || $option == 00 ]]; then
+sleep 1
+printf "\e[0m\n"
+printf "\e[0m\n"
+msg_exit
+
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+banner2
+menu
+fi
+}
+
+#---------------------------INSTALL BAHAN-----------------------#
+install_bahan() {
+  banner
+  echo " "
+  printf " \e[0m\e[1;93mSEBELUM LANJUT INSTALL BAHANNYA DULU BRO ! \e[0m\e[1;91m!! \e[0m\n"
+printf "\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m NO\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m YES\e[0m\n"
+printf "\e[0m\n"
+read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' bahan
+
+if [[ $bahan == 1 || $bahan == 01 ]]; then
+msg_exit
+elif [[ $bahan == 2 || $bahan == 02 ]]; then
+clear
+echo " "
+echo "╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╦ ╔╗╔ ╔═╗  "
+echo "║ ║║║ ╚═╗  ║  ╠═╣ ║   ║   ║ ║║║ ║ ╦ "
+echo "╩ ╝╚╝ ╚═╝  ╩  ╩ ╩ ╩═╝ ╩═╝ ╩ ╝╚╝ ╚═╝ ╻ ╻ ╻ ╻ ╻  "
+echo " "
+echo $O"Installing packages......."
+echo " "
+apt update
+apt install ruby -y
+pkg install neofetch
+sleep 1
+clear
+echo " "
+printf " \e[0m\e[1;93mINSTALLING SELESAI MENCOBA MASUK !\e[0m\e[1;91m!! \e[0m\n"
+printf "\e[0m\n"
+sleep 1
+clear
+banner2
+menu
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+install_bahan
+fi
+}
+
+#----------------------------UPDATE SCRIPT-----------------#
+update() {
+clear
+printf "\e[0m\n"
+sleep 1
+printf "\e[1;31mFollow me one github\e[0m" 
+ echo 
+ echo -e "\E[1;33m:::::::::::::: \e[97m  PMC MALWARE CYBER  \E[1;33m:::::::::::::::"
+printf "\e[0m\n"
+printf "\e[97m╦╔═ ╔═╗ ╔╗╔ ╔═╗ ╦ ╦═╗ ╔╦╗ ╔═╗ ╔═╗ ╦  \e[0m\n"
+printf "\e[97m╠╩╗ ║ ║ ║║║ ╠╣  ║ ╠╦╝ ║║║ ╠═╣ ╚═╗ ║  \e[0m\n"
+printf "\e[97m╩ ╩ ╚═╝ ╝╚╝ ╚   ╩ ╩╚═ ╩ ╩ ╩ ╩  ═╝ ╩  \e[0m\n"
+printf "\e[0m\n"
+printf " \e[0m\e[1;93mAPAKAH ANDA AKAN MENGUPDATE SCRIPT INI \e[0m\e[1;91m!! \e[0m\n"
+printf "\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m NO\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m YES\e[0m\n"
+printf "\e[0m\n"
+read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' update
+
+if [[ $update == 1 || $update == 01 ]]; then
+banner2
+menu
+elif [[ $update == 2 || $update == 02 ]]; then
+clear
+printf "\e[0m\n"
+printf "\e[97m╦ ╦ ╔═╗ ╔╦╗ ╔═╗ ╔╦╗ ╔═╗  \e[0m\n"
+printf "\e[97m║ ║ ╠═╝  ║║ ╠═╣  ║  ║╣\e[0m\n"
+printf "\e[97m╚═╝ ╩   ═╩╝ ╩ ╩  ╩  ╚═╝ \e[0m\n"
+cd $HOME 
+cd
+rm -rf termux_sell
+git clone https://github.com/Unlimited-Crack-You/termux_sell.git 
+cd termux_sell
+sleep 1
+clear
+echo ""
+printf " \e[0m\e[1;93mUPDATE SELESAI AKAN MENCOBA MASUK KEMBALI \e[0m\e[1;91m!! \e[0m\n"
+printf "\e[0m\n"
+sleep 2
+bash install.sh
+clear
+
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+update
+fi
+}
+
+#----------------------------About ----------------------------#
+about() {
+  aboutbanner
+		  printf "\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
+printf "\e[0m\n"
+		read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' about
+
+if [[ $about == 1 || $about == 01 ]]; then
+banner2
+menu
+elif [[ $about == 2 || $about == 02 ]]; then
+printf "\e[0m\n"
+printf "\e[0m\n"
+clear
+msg_exit
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+about
+fi
+}
+
+#----------------------------Banner pmc ----------------------------#
+banner_pmc() {
+banner2
+sleep 1
+echo " "
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m SEDANG MENGOPERASIKAN SISTEM...... \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+echo $WT" SELESAI SILAKAN TUAN BISA EXIT / RESTART ULANG TERMUX NYA "
+rm $PREFIX/etc/motd
+cp login/motd $PREFIX/etc
+
+  rm $PREFIX/etc/bash.bashrc
+cp bash.bashrc $PREFIX/etc
+sleep 1
+printf "\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
+printf "\e[0m\n"
+		read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' pmc
+
+if [[ $pmc == 1 || $pmc == 01 ]]; then
+banner2
+menu
+elif [[ $pmc == 2 || $pmc == 02 ]]; then
+printf "\e[0m\n"
+printf "\e[0m\n"
+clear
+msg_exit
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+banner_pmc
+fi
+}
+
+#----------------------------banner android ----------------------------#
+banner_android() {
+banner2
+sleep 1
+echo " "
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m SEDANG MENGOPERASIKAN SISTEM...... \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+echo $WT" SELESAI SILAKAN TUAN BISA EXIT / RESTART ULANG TERMUX NYA "
+  rm $PREFIX/etc/bash.bashrc
+cp android/bash.bashrc $PREFIX/etc
+sleep 1
+printf "\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
+printf "\e[0m\n"
+		read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' pmc
+
+if [[ $pmc == 1 || $pmc == 01 ]]; then
+banner2
+menu
+elif [[ $pmc == 2 || $pmc == 02 ]]; then
+printf "\e[0m\n"
+printf "\e[0m\n"
+clear
+msg_exit
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+banner_android
+fi
+}
+
+#----------------------------banner android ----------------------------#
+banner_black() {
+banner2
+sleep 1
+echo " "
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m SEDANG MENGOPERASIKAN SISTEM...... \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+echo $WT" SELESAI SILAKAN TUAN BISA EXIT / RESTART ULANG TERMUX NYA "
+  rm $PREFIX/etc/bash.bashrc
+cp black/bash.bashrc $PREFIX/etc
+sleep 1
+printf "\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
+printf "\e[0m\n"
+		read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' pmc
+
+if [[ $pmc == 1 || $pmc == 01 ]]; then
+banner2
+menu
+elif [[ $pmc == 2 || $pmc == 02 ]]; then
+printf "\e[0m\n"
+printf "\e[0m\n"
+clear
+msg_exit
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+banner_black
+fi
+}
+
+#----------------------------banner android ----------------------------#
+banner_anon() {
+banner2
+sleep 1
+echo " "
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m SEDANG MENGOPERASIKAN SISTEM...... \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+echo $WT" SELESAI SILAKAN TUAN BISA EXIT / RESTART ULANG TERMUX NYA "
+  rm $PREFIX/etc/bash.bashrc
+cp anon/bash.bashrc $PREFIX/etc
+sleep 1
+printf "\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
+printf "\e[0m\n"
+		read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' pmc
+
+if [[ $pmc == 1 || $pmc == 01 ]]; then
+banner2
+menu
+elif [[ $pmc == 2 || $pmc == 02 ]]; then
+printf "\e[0m\n"
+printf "\e[0m\n"
+clear
+msg_exit
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+banner_anon
+fi
+}
+#----------------------------Costum Banner ----------------------------#
+costumbanner() {
+  banner2
+  echo " "
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m SILAKAN BISA HUBUNGI AUTHOR DAN BUAT COSTUM CUMA 1K HEE\e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+echo $WT" BUAT NGOPI BREE TERIMA KASIH .. :)"
+  printf "\e[0m\n"
+  printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Contak Admin Buat Costum \e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m03\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
+printf "\e[0m\n"
+		read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' csb
+
+if [[ $csb == 1 || $csb == 01 ]]; then
+am start -a android.intent.action.VIEW https://wa.me/6283137560358
+elif [[ $csb == 2 || $csb == 02 ]]; then
+banner2
+menu
+elif [[ $csb == 2 || $csb == 03 ]]; then
+printf "\e[0m\n"
+printf "\e[0m\n"
+clear
+msg_exit
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+costumbanner
+fi
+}
+
+#---------------------------- MenuBanner 1  --------------------------------#
+menubanner1() {
+banner2
+echo " "
+echo $O"APA BILA MAU COSTUM BANNER DENAGN TEMA SESUAI MINAT KAMU "
+echo $O"CUMA 1K BISA LANGSUNG KETIK ${GAR}BUY ${R}) ${O}AJA TEMAN-TEMAN "
+printf "\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37mF1\e[0m\e[1;31m]\e[0m\e[1;33m TEMA TEAM PMC \e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37mF2\e[0m\e[1;31m]\e[0m\e[1;33m TEMA ANDROID \e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37mF3\e[0m\e[1;31m]\e[0m\e[1;33m TEMA BLACK TEAM \e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37mF4\e[0m\e[1;31m]\e[0m\e[1;33m ANONYMOUS HACKER \e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m00\e[0m\e[1;31m]\e[0m\e[1;33m RETURN TO MAIN \e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m99\e[0m\e[1;31m]\e[0m\e[1;33m EXIT/LOGOUT \e[0m\n"
+printf "\e[0m\n"
+read -p $'  \e[1;31m[\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;92m Select An Option \e[0m\e[1;96m: \e[0m\e[1;93m\en' option1
+
+if [[ $option1 == 1 || $option1 == F1 ]]; then
+banner_pmc
+elif [[ $option1 == 2 || $option1 == F2 ]]; then
+banner_android
+elif [[ $option1 == 2 || $option1 == F3 ]]; then
+banner_black
+elif [[ $option1 == 2 || $option1 == F4 ]]; then
+banner_anon
+elif [[ $option1 == 2 || $option1 == 00 ]]; then
+banner2
+menu
+elif [[ $option1 == 2 || $option1 == BUY ]]; then
+costumbanner
+elif [[ $option == 0 || $option == 99 ]]; then
+sleep 1
+printf "\e[0m\n"
+printf "\e[0m\n"
+msg_exit
+
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+menubanner1
+fi
+}
+
+install_bahan
