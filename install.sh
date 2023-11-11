@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # recode ngotak tolol 
 #jangan lupa bre startednya ok >.-
@@ -32,6 +31,21 @@ check_status() {
     [ $? -eq 0 ] && echo -e "${GR}Online${WT}" || echo -e "${R}Offline${WT}"
 }
 
+#----------------------------Banner prngguna------------------------#
+banner_penguna() {
+  clear
+  check_status
+  echo " "
+echo "${GR}┏┓  ┏┓┏ ┳━┓   ┏━┓ ┏━┓ ┏┓┏ ┏━┓ ┏━┓ ┳ ┳ ┏┓┏ ┏━┓   ┏━┓ ┳━┓ ┏━┓ ┏┳┓  "
+echo "${GR}┣┻┓ ┃┃┃ ┣┳┛   ┣━┛ ┣┫  ┃┃┃ ┃ ┳ ┃ ┳ ┃ ┃ ┃┃┃ ┣━┫   ┣━┛ ┣┳┛ ┣┫  ┃┃┃  "
+echo "${GR}┗━┛ ┛┗┛ ┻┗━   ┻   ┗━┛ ┛┗┛ ┗━┛ ┗━┛ ┗━┛ ┛┗┛ ┻ ┻   ┻   ┻┗━ ┗ ┛ ┻ ┻  "
+printf "\e[1;32m                            In Code \e[0m\e[1;33mBash  \e[0m\e[1;31mVersion : ${__version__}    \e[0m\n"
+printf "\e[0m\n"
+printf "   \e[0m\e[1;37m┌─────────────────────────────────────────┐ \e[0m\n"
+printf "\e[0m\e[1;33m   \e[0m\e[1;37m│  \e[0m\e[1;33mCreated By ./B7 \e[0m\e[1;31m(\e[0m\e[1;33m PMC MALWARE CYBER \e[0m\e[1;31m)  \e[0m\e[1;37m│  \e[0m\n"
+printf "   └─────────────────────────────────────────┘"
+printf "\e[0m\n"
+}
 #-----------------------about banner-------------------------------#
 aboutbanner() {
    clear
@@ -129,17 +143,21 @@ printf "\e[0m\e[1;31m  [\e[0m\e[1;37m03\e[0m\e[1;31m]\e[0m\e[1;33m Update\e[0m\n
 printf "\e[0m\e[1;31m  [\e[0m\e[1;37m99\e[0m\e[1;31m]\e[0m\e[1;33m About\e[0m\n"
 printf "\e[0m\e[1;31m  [\e[0m\e[1;37m00\e[0m\e[1;31m]\e[0m\e[1;33m Exit\e[0m\n"
 printf "\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37mRP\e[0m\e[1;31m]\e[0m\e[1;33m BANNER PREMIUM PENGGUNA\e[0m\n"
+printf "\e[0m\n"
 read -p $'  \e[1;31m[\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;92m Select An Option \e[0m\e[1;96m: \e[0m\e[1;93m\en' option
 
-if [[ $option == 1 || $option == 01 ]]; then
+if [[ $option == 01 || $option == 01 ]]; then
 menubanner1
-elif [[ $option == 2 || $option == 02 ]]; then
+elif [[ $option == 02 || $option == 02 ]]; then
 costumbanner
-elif [[ $option == 2 || $option == 03 ]]; then
+elif [[ $option == 03 || $option == 03 ]]; then
 update
-elif [[ $option == 2 || $option == 99 ]]; then
+elif [[ $option == 99 || $option == 99 ]]; then
 about
-elif [[ $option == 0 || $option == 00 ]]; then
+elif [[ $option == RP || $option == RP ]]; then
+premium
+elif [[ $option == 00 || $option == 00 ]]; then
 sleep 1
 printf "\e[0m\n"
 printf "\e[0m\n"
@@ -364,6 +382,50 @@ banner_black
 fi
 }
 
+freepales() {
+banner_penguna
+sleep 1
+echo " "
+read -p " ${BL}Masukan Password => "${O} apa 
+if [ "$apa" = "Amang" ]
+then
+echo "${O} PASSWORD PENGGUNA BENAR SILAKAN MENGOPERASIKAN "
+echo " "
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m SEDANG MENGOPERASIKAN SISTEM...... \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+echo $WT" SELESAI SILAKAN TUAN BISA EXIT / RESTART ULANG TERMUX NYA "
+  rm $PREFIX/etc/bash.bashrc
+cp pales/bash.bashrc $PREFIX/etc
+menu_les
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+freepales
+fi
+}
+
+menu_les() {
+sleep 1
+printf "\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Return To Main Menu\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
+printf "\e[0m\n"
+		read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' pmc
+
+if [[ $pmc == 1 || $pmc == 01 ]]; then
+banner2
+menu
+elif [[ $pmc == 2 || $pmc == 02 ]]; then
+printf "\e[0m\n"
+printf "\e[0m\n"
+clear
+msg_exit
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+banner_anon
+fi
+}
+
 #----------------------------banner android ----------------------------#
 banner_anon() {
 banner2
@@ -463,6 +525,39 @@ else
 printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
 sleep 1
 menubanner1
+fi
+}
+
+#---------------------------- premium --------------------------------#
+premium() {
+banner_penguna
+echo " "
+echo $O"APA BILA MAU COSTUM BANNER DENAGN TEMA SESUAI MINAT KAMU "
+echo $O"CUMA 1K BISA LANGSUNG KETIK${R} ( ${WT}BUY ${R}) ${O}AJA TEMAN-TEMAN "
+printf "\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37mF1\e[0m\e[1;31m]\e[0m\e[1;33m TEMA FREE PALESTINE\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m00\e[0m\e[1;31m]\e[0m\e[1;33m RETURN TO MAIN \e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m99\e[0m\e[1;31m]\e[0m\e[1;33m EXIT/LOGOUT \e[0m\n"
+printf "\e[0m\n"
+read -p $'  \e[1;31m[\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;92m Select An Option \e[0m\e[1;96m: \e[0m\e[1;93m\en' option1
+
+if [[ $option1 == 1 || $option1 == F1 ]]; then
+freepales
+elif [[ $option1 == 2 || $option1 == 00 ]]; then
+banner2
+menu
+elif [[ $option1 == 2 || $option1 == BUY ]]; then
+costumbanner
+elif [[ $option == 0 || $option == 99 ]]; then
+sleep 1
+printf "\e[0m\n"
+printf "\e[0m\n"
+msg_exit
+
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+premium
 fi
 }
 
